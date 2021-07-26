@@ -2,4 +2,4 @@ language: bash
 script:
         - echo "最大公約数:5"
         - echo Travis CI test in .travis.yml
-        - ./greatest-common-divisor-test.sh
+        - bash ./greatest-common-divisor-test.sh
