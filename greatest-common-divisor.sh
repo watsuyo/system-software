@@ -19,4 +19,4 @@ do
 	second_arg=$result
 done
 
-echo "最大公約数: $first_arg"
+echo "最大公約数:$first_arg"
